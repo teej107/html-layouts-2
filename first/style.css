@@ -1,0 +1,74 @@
+/*body
+{
+    width: 100%;
+}*/
+
+p {
+    font-size: 24px;
+    font-family: Arial;
+}
+
+#top
+{
+    display: flex;
+    justify-content: space-between;
+}
+
+.topbox
+{
+    width: 30%;
+    height: 200px;
+}
+
+.red
+{
+    background-color: firebrick;
+}
+
+.blue
+{
+    background-color: cornflowerblue;
+}
+
+.black
+{
+    background-color: rgb(41, 41, 41);
+}
+
+.flex
+{
+    display: flex;
+}
+
+.midbox
+{
+    height: 400px;
+}
+
+.thirdwidth
+{
+    width: 33%;
+}
+
+.twothirdwidth
+{
+    width: 66%;
+}
+
+#bottombox
+{
+    height: 200px;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.fifthwidth
+{
+    width: 20%;
+}
+
+.rect
+{
+    width: 60%;
+    height: 100%;
+}

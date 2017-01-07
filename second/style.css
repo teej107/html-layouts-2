@@ -1,0 +1,78 @@
+body
+{
+    background-color: lightgray;
+    margin: 0;
+}
+
+p
+{
+    font-size: 30px;
+    font-family: Arial;
+}
+
+.whitediv
+{
+    background-color: white;
+    padding: 20px;
+    margin: 50px;
+}
+
+
+.blackbg
+{
+    background-color: rgb(41, 41, 41);
+}
+
+.bluebg
+{
+    background-color: cornflowerblue;
+}
+
+.redbg
+{
+    background-color: #b80000;
+}
+
+.flex
+{
+    display: flex;
+}
+
+.clickbtn
+{
+    font-family: Arial;
+    font-size: 24px;
+    color: white;
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+}
+
+#imgtext
+{
+    text-align: center;
+    color: white;
+    font-size: 36px;
+    padding: 20%;
+}
+
+footer
+{
+    margin: 0;
+}
+
+#ftr
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+
+.ftrlink
+{
+    font-family: Arial;
+    font-size: 24px;
+    color: white;
+    margin: 20px;
+}
